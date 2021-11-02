@@ -12,22 +12,22 @@ Australie,10,0.0,2013
 Autriche,11,0.0,2013
 Bahamas,12,0.0,2013
 Bahreïn,13,0.0,2013
-Barbade,14,,2013
+0,0,0.0,2013
 Bangladesh,16,26100000.0,2013
 Bermudes,17,0.0,2013
 Bhoutan,18,0.0,2013
 Bolivie (État plurinational de),19,2200000.0,2013
 Botswana,20,500000.0,2013
 Brésil,21,0.0,2013
-Belize,23,,2013
-Îles Salomon,25,,2013
-Brunéi Darussalam,26,,2013
+0,0,0.0,2013
+0,0,0.0,2013
+0,0,0.0,2013
 Bulgarie,27,400000.0,2013
 Myanmar,28,6600000.0,2013
 Burundi,29,0.0,2013
 Cameroun,32,1700000.0,2013
 Canada,33,0.0,2013
-Cabo Verde,35,,2013
+0,0,0.0,2013
 République centrafricaine,37,2000000.0,2013
 Sri Lanka,38,2300000.0,2013
 Tchad,39,4900000.0,2013
@@ -39,22 +39,22 @@ Congo,46,1800000.0,2013
 Îles Cook,47,0.0,2013
 Costa Rica,48,300000.0,2013
 Cuba,49,0.0,2013
-Chypre,50,,2013
+0,0,0.0,2013
 Azerbaïdjan,52,0.0,2013
 Bénin,53,1000000.0,2013
 Danemark,54,0.0,2013
-Dominique,55,,2013
+0,0,0.0,2013
 République dominicaine,56,1300000.0,2013
 Bélarus,57,0.0,2013
 Équateur,58,1300000.0,2013
 Égypte,59,3900000.0,2013
 El Salvador,60,700000.0,2013
 Guinée équatoriale,61,0.0,2013
-Estonie,63,,2013
-Fidji,66,,2013
+0,0,0.0,2013
+0,0,0.0,2013
 Finlande,67,0.0,2013
 France,68,0.0,2013
-Polynésie française,70,,2013
+0,0,0.0,2013
 Djibouti,72,200000.0,2013
 Géorgie,73,300000.0,2013
 Gabon,74,200000.0,2013
@@ -62,13 +62,13 @@ Gambie,75,200000.0,2013
 Allemagne,79,0.0,2013
 Bosnie-Herzégovine,80,0.0,2013
 Ghana,81,1600000.0,2013
-Kiribati,83,,2013
+0,0,0.0,2013
 Grèce,84,0.0,2013
 Groenland,85,0.0,2013
 Grenade,86,0.0,2013
 Guatemala,89,2500000.0,2013
 Guinée,90,1800000.0,2013
-Guyana,91,,2013
+0,0,0.0,2013
 Haïti,93,5200000.0,2013
 Honduras,95,1300000.0,2013
 Chine - RAS de Hong-Kong,96,0.0,2013
@@ -101,15 +101,15 @@ Libéria,123,1600000.0,2013
 Libye,124,0.0,2013
 Lituanie,126,0.0,2013
 Îles Marshall,127,0.0,2013
-Chine - RAS de Macao,128,,2013
+0,0,0.0,2013
 Madagascar,129,8199999.999999999,2013
 Malawi,130,3200000.0,2013
 Malaisie,131,1000000.0,2013
-Maldives,132,,2013
+0,0,0.0,2013
 Mali,133,1000000.0,2013
 Malte,134,0.0,2013
 Mauritanie,136,300000.0,2013
-Maurice,137,,2013
+0,0,0.0,2013
 Mexique,138,5300000.0,2013
 Mongolie,141,500000.0,2013
 Maroc,143,1400000.0,2013
@@ -120,9 +120,9 @@ Namibie,147,700000.0,2013
 Nauru,148,0.0,2013
 Népal,149,2500000.0,2013
 Pays-Bas,150,0.0,2013
-Nouvelle-Calédonie,153,,2013
-Macédoine du Nord,154,,2013
-Vanuatu,155,,2013
+0,0,0.0,2013
+0,0,0.0,2013
+0,0,0.0,2013
 Nouvelle-Zélande,156,0.0,2013
 Nicaragua,157,1100000.0,2013
 Niger,158,1900000.0,2013
@@ -150,8 +150,8 @@ Rwanda,184,3600000.0,2013
 Fédération de Russie,185,0.0,2013
 Saint-Kitts-et-Nevis,188,0.0,2013
 Sainte-Lucie,189,0.0,2013
-Saint-Vincent-et-les Grenadines,191,,2013
-Sao Tomé-et-Principe,193,,2013
+0,0,0.0,2013
+0,0,0.0,2013
 Arabie saoudite,194,1600000.0,2013
 Sénégal,195,1900000.0,2013
 Seychelles,196,0.0,2013
@@ -162,7 +162,7 @@ Singapour,200,0.0,2013
 Somalie,201,0.0,2013
 Afrique du Sud,202,2600000.0,2013
 Espagne,203,0.0,2013
-Suriname,207,,2013
+0,0,0.0,2013
 Tadjikistan,208,0.0,2013
 Eswatini,209,300000.0,2013
 Suède,210,0.0,2013
@@ -175,7 +175,7 @@ Thaïlande,216,5600000.0,2013
 Togo,217,1300000.0,2013
 Tokélaou,218,0.0,2013
 Tonga,219,0.0,2013
-Trinité-et-Tobago,220,,2013
+0,0,0.0,2013
 Oman,221,200000.0,2013
 Tunisie,222,500000.0,2013
 Turquie,223,0.0,2013
@@ -191,7 +191,7 @@ Ouzbékistan,235,2100000.0,2013
 Venezuela (République bolivarienne du),236,1900000.0,2013
 Viet Nam,237,10400000.0,2013
 Éthiopie,238,25300000.0,2013
-Samoa,244,,2013
+0,0,0.0,2013
 Yémen,249,7200000.0,2013
 République démocratique du Congo,250,0.0,2013
 Zambie,251,7000000.0,2013
