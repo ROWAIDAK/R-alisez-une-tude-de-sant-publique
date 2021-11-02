@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/rowaidakanaan/Documents/GitHub/R-alisez-une-tude-de-sant-publique/projet 3/FAO_2013_fr/la faim dans le monde en 2013.db" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><current_tab id="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1584"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="dispo_alim"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="dispo_alim" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk=""><sort/><column_widths/><filter_values/><display_formats/><hidden_columns/><plot_y_axes/></table></browse_table_settings></tab_browse><tab_sql><sql name="top_pays_sous_alimentées">SELECT sous_nutrition.pays, ((sous_nutrition.nb_personnes/population.population)*100) AS taux_sous_nutrition
+FROM sous_nutrition
+NATURAL JOIN population
+ORDER BY taux_sous_nutrition DESC
+LIMIT 0,10</sql><sql name="top_ratio_autres_sur_dispo">SELECT produit, AVG(autres_utilisations / dispo_int) AS ratio_autres_sur_dispo_interieure
+FROM equilibre_prod
+GROUP BY produit
+ORDER BY ratio_autres_sur_dispo_interieure DESC
+LIMIT 0,10</sql><sql name="top_pays__faible_dispo_kg_prot">SELECT pays, SUM(pertes*1000) AS pertes_pays_kg
+FROM equilibre_prod
+GROUP BY pays</sql><sql name="top_pays__faible_dispo_kg_prot">SELECT  pays , 
+(SUM(dispo_alim.dispo_prot * 365)/1000) AS ratio_dipo_prot_pays_kg_habts 
+FROM dispo_alim 
+
+GROUP BY dispo_alim.pays
+ORDER BY ratio_dipo_prot_pays_kg_habts 
+LIMIT  0,10
+ 
+    
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
